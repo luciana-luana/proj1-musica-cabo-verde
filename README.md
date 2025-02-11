@@ -4,4 +4,6 @@ Este foi o primeiro projeto prático desenvolvido no âmbito do curso de webdeve
 
 O site visa apresentar as raízes da cultura cabo-verdiana, com ênfase na morna.
 
+[Assista no YouTube a demonstração do website](https://youtu.be/lc7UORIcXB4)
+
 
